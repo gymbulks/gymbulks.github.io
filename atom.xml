@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Фарма Обзоры</title>
+ <link href="http://www.insane-bulk.pro/atom.xml" rel="self"/>
+ <link href="http://www.insane-bulk.pro/"/>
+ <updated>2016-12-17T22:33:57+02:00</updated>
+ <id>http://www.insane-bulk.pro</id>
+ <author>
+   <name>Иван Демидович</name>
+   <email>marksdfasdfdotto@gmail.com</email>
+ </author>
+
+ 
+
+</feed>
