@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Фарма Обзоры</title>
- <link href="http://www.insane-bulk.pro/atom.xml" rel="self"/>
- <link href="http://www.insane-bulk.pro/"/>
- <updated>2016-12-17T22:33:57+02:00</updated>
- <id>http://www.insane-bulk.pro</id>
+ <link href="https://gymbulks.github.io/atom.xml" rel="self"/>
+ <link href="https://gymbulks.github.io/"/>
+ <updated>2017-01-15T22:29:57+02:00</updated>
+ <id>https://gymbulks.github.io</id>
  <author>
    <name>Иван Демидович</name>
    <email>marksdfasdfdotto@gmail.com</email>
